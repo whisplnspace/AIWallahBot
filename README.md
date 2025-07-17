@@ -47,6 +47,7 @@ Replace `"YOUR_API_KEY"` with your Gemini key.
 4. **Launch it!**
 Double-click `index.html` or serve locally and enjoy your new AI friend.
 ## UI⚡
+![Image](https://github.com/user-attachments/assets/0c6dbb72-aa7f-47bc-9bd1-aa01705a209f)
 
 ## 🖌 Personalize Your Bot
 
