@@ -46,6 +46,7 @@ const GEMINI_API_KEY = "YOUR_API_KEY";
 Replace `"YOUR_API_KEY"` with your Gemini key.
 4. **Launch it!**
 Double-click `index.html` or serve locally and enjoy your new AI friend.
+## UI⚡
 
 ## 🖌 Personalize Your Bot
 
@@ -72,9 +73,5 @@ Want even more wow? Try dark mode, animated emoji bubbles, or glowing effects—
 Got an idea for a unique feature, or want to show off your AI design skills?
 Submit a pull request or open an issue—we welcome enhancements, themes, share-your-theme screenshots, and more.
 
-## ⚡ License
 
-MIT. Build, tweak, and share your AiWallahBot freely.
-
-Make conversation beautiful, and let your creativity shine—AiWallahBot is your canvas.
 
