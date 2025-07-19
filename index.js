@@ -2,7 +2,7 @@ const chatWindow = document.getElementById('chat-window');
 const chatForm = document.getElementById('chat-form');
 const userInput = document.getElementById('user-input');
 
-const GEMINI_API_KEY = "AIzaSyB9q-Zc4UylyI0bJa5eWtNcv7j9V9_Bp5s";
+const GEMINI_API_KEY = "AIzaSyB9q-Zc4UylyI0bJa5eWtNcv7j9V9_Bp5";
 const GEMINI_API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${GEMINI_API_KEY}`;
 
 chatForm.addEventListener('submit', async function(e) {
